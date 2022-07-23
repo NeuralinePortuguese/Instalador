@@ -1,0 +1,14 @@
+Caso você não tenha configurado automaticamente no Windows as variáveis de ambiente para o Python, você ainda poderá fazer isso manualmente com os passos a seguir:
+1 – Pesquise por “variáveis” na barra de pesquisas do Windows.
+2 – Abra o editor das variáveis de ambiente do sistema.
+3 – Clique no botão “Variáveis de Ambiente...”.
+4 – Na sessão superior com as variáveis de usuário, dê um duplo clique na variável “Path”, ou selecione a linha da variável “Path” e clique em “Editar...”.
+5 – Clique no botão “Novo” e na linha de edição insira o endereço do executável do Python. 
+O endereço será algo semelhante a isso:
+C:\Users\UserName\AppData\Local\Programs\Python\Python310\
+6 – Clique em “Novo” novamente e insira o mesmo endereço anterior com o subdiretório “Scripts”.
+Você terá algo semelhante a isso:
+C:\Users\UserName \AppData\Local\Programs\Python\Python310\Scripts\
+7 – Clique em “OK” para confirmar.
+8 – Caso queira dar permissão de execução do Python para outros usuários além de você, basta repetir o mesmo procedimento na sessão inferior de nome “Variáveis do sistema”.
+9 – Na janela de Variáveis de Ambiente, clique em “OK” e na janela de Propriedades do Sistema clique em “Aplicar” e finalize com “OK”.
