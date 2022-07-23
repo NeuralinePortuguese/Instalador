@@ -5,7 +5,7 @@
 
 ### Instalação do Neuraline
 
-Primeiramente com o Python instalado, baixe o arquivo instalador clicando <a href="https://github.com/NeuralinePortuguese/Instalador/raw/main/neuraline_installer.pyc">aqui</a>.
+Primeiramente com o <a href="https://www.python.org/">Python</a> instalado, baixe o arquivo instalador clicando <a href="https://github.com/NeuralinePortuguese/Instalador/raw/main/neuraline_installer.pyc">aqui</a>.
 
 Depois de baixar o arquivo instalador, acesse o diretório para onde o arquivo foi baixado através do terminal.
 Por exemplo, no caso do Windows pesquise por cmd na sua barra de pesquisas e abra o Prompt de Comando.
