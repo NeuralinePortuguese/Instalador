@@ -5,9 +5,7 @@
 
 ### Instalação do Neuraline
 <div align="justify">
-Primeiramente com o <a href="https://www.python.org/">Python</a>3.10 ou superior instalado, se você for um usuário Windows baixe o arquivo instalador clicando <a href="https://github.com/NeuralinePortuguese/Instalador/raw/main/neuraline_installer.pyc">aqui</a>.
-<br>
-Caso você seja um usuário Linux(deb) não será preciso instalador, basta baixar o código fonte clicando <a href="https://github.com/Neuraline/Neuraline_linux_distributions/archive/refs/heads/main.zip">aqui</a> e extrair para a sua pasta de projetos. Recomendamos a última versão do Ubuntu para usuários Linux.
+Primeiramente com o <a href="https://www.python.org">Python</a>3.10 ou superior instalado, se você for um usuário Windows baixe o arquivo instalador clicando <a href="https://github.com/aiquantumneuro/instalacao_do_neuraline/raw/main/neuraline_installer.pyc">aqui</a> ou se preferir baixe o código fonte e siga para o passo 1. Caso você seja um usuário Linux(deb) não será preciso instalador, basta baixar o código fonte clicando <a href="https://github.com/Neuraline/Neuraline_linux_distributions/archive/refs/heads/main.zip">aqui</a> e extrair para a sua pasta de projetos. Recomendamos a última versão do Ubuntu para usuários Linux.
 
 Se você for um usuário Windows siga as instruções a seguir para executar o instalador, para usuários Linux pule direto para o passo 1 logo abaixo.<br>
 Depois de baixar o arquivo instalador, acesse o diretório para onde o arquivo foi baixado através do terminal.
