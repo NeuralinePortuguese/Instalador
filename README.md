@@ -9,7 +9,7 @@ Primeiramente com o <a href="https://www.python.org/">Python</a>3.10 ou superior
 <br>
 Caso você seja um usuário Linux(deb) não será preciso instalador, basta baixar o código fonte clicando <a href="https://github.com/Neuraline/Neuraline_linux_distributions/archive/refs/heads/main.zip">aqui</a> e extrair para a sua pasta de projetos. Recomendamos a última versão do Ubuntu para usuários Linux.
 
-Se você for um usuário Windows seiga as instruções a seguir para executar o instalador, para usuários Linux pule direto para o passo 1 logo abaixo.<br>
+Se você for um usuário Windows siga as instruções a seguir para executar o instalador, para usuários Linux pule direto para o passo 1 logo abaixo.<br>
 Depois de baixar o arquivo instalador, acesse o diretório para onde o arquivo foi baixado através do terminal.
 Por exemplo, no caso do Windows pesquise por cmd na sua barra de pesquisas e abra o Prompt de Comando.
 Depois digite o comando "cd" seguido do caminho do diretório onde se encontra o arquivo baixado.
