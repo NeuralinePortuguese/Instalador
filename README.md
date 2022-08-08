@@ -4,7 +4,7 @@
 ## Para desbloquear todos os recursos, siga as etapas abaixo.
 
 ### Instalação do Neuraline
-
+<div align="justify">
 Primeiramente com o <a href="https://www.python.org/">Python</a>3.10 ou superior instalado, se você for um usuário Windows baixe o arquivo instalador clicando <a href="https://github.com/NeuralinePortuguese/Instalador/raw/main/neuraline_installer.pyc">aqui</a>.
 <br>
 Caso você seja um usuário Linux(deb) não será preciso instalador, basta baixar o código fonte clicando <a href="https://github.com/Neuraline/Neuraline_linux_distributions/archive/refs/heads/main.zip">aqui</a> e extrair para a sua pasta de projetos. Recomendamos a última versão do Ubuntu para usuários Linux.
@@ -96,5 +96,4 @@ você também poderá codificar com o próprio IDLE sem problemas. No <a href="h
 <sub>Confira algumas das empresas, organizações ou instituições de ensino que utilizam o algoritmo completo ou módulos dele:
 SpaceX, Boston Dynamics, Blue Origin, Huawei, Xiaomi, ByteDance, University of Zurich, University of Vienna, Peking University...
 O nome Neuraline refere-se apenas aos módulos de distribuição pública e o direito autoral é de propriedade dos desenvolvedores.</sub>
-
-
+</div>
