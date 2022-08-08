@@ -62,6 +62,7 @@ Subscribe().subscribe()
 <sup>Observação: lembre-se de que é uma biblioteca de códigos Python, logo todos os códigos deverão ser executados com o Python.
 Você poderá criar um arquivo para cada código a ser executado e executá-los com o comando "python" seguido do nome do arquivo .py,
 ou simplesmente executar os códigos linha a linha através do IDLE.</sup><br>
+<sup>Se por algum motivo você não conseguir executar a janela de inscrição clique <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=3KU8UE3HVYPAS">aqui</a> e acesse o nosso link alternativo diretamente do PayPal, mas só faça isso se a janela de inscrição da biblioteca não abrir.</sup>
 
 * passo 2: preencha o primeiro campo do formulário com o seu nome verdadeiro completo e no segundo campo escolha o seu país de residência. Depois de preencher os dois campos clique no botão "Next >>".
 
