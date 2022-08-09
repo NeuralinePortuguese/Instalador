@@ -88,7 +88,7 @@ Também não recomendamos que você tente editá-los, pois neste caso os desenvo
 Com a instalação e validação concluídas você já poderá utilizar todos os recursos de Neurociência Computacional, Inteligência Artificial, Física Computacional e Computação Quântica da ferramenta.
 Como os algoritmos são códigos fechados nós não recomendamos a utilização de IDEs invasivas com recursos de autocomplete para módulos, 
 neste caso a nossa recomendação é de que você codifique com IDEs de código texto como o <a href="https://www.sublimetext.com/">Sublime Text</a> ou o <a href="https://atom.io/">Atom</a> por exemplo (não recomendamos o VS Code), 
-você também poderá codificar com o próprio IDLE sem problemas. No <a href="https://atom.io/">Atom</a> recomendamos a utilização do pacote <a href="https://atom.io/packages/search?q=platformio-ide-terminal">platformio-ide-terminal</a> por que o terminal padrão dos sistemas operacionais não costuma exibir alguns símbolos especiais da computação quântica.
+você também poderá codificar com o próprio IDLE sem problemas. No <a href="https://atom.io/">Atom</a> recomendamos a utilização do pacote <a href="https://atom.io/packages/search?q=platformio-ide-terminal">platformio-ide-terminal</a> para Windows por que o terminal padrão não costuma exibir alguns símbolos especiais da computação quântica.
 
 <sub>Confira algumas das empresas, organizações ou instituições de ensino que utilizam o algoritmo completo ou módulos dele:
 SpaceX, Boston Dynamics, Blue Origin, Huawei, Xiaomi, ByteDance, University of Zurich, University of Vienna, Peking University...
