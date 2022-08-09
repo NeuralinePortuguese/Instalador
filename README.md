@@ -44,7 +44,8 @@ downloading, please wait..............
 Ok! O Neuraline foi instalado com sucesso, mas você ainda não conseguirá utilizar os recursos profissionais de forma completa caso não valide a sua assinatura.
 Para assinar a licensa profissional e liberar todos os recursos, siga as etapas abaixo.
 
-* passo 1: conectado a internet, execute a janela de inscrição de assinatura na sua máquina local com o código a seguir.
+* passo 1: conectado a internet, execute a janela de inscrição de assinatura na sua máquina local com o código a seguir.<br>
+<sup>Se você estiver usando os fontes diretamente da sua pasta de projetos sem o instalador execute primeiro o código para instalação de dependências, você pode encontrá-lo <a href="https://github.com/NeuralinePortuguese/Instalador/blob/main/instalacao_de_dependencias.py">aqui</a>.</sup>
 
 <pre>
   <code>
