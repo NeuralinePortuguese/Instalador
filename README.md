@@ -45,7 +45,7 @@ Ok! O Neuraline foi instalado com sucesso, mas você ainda não conseguirá util
 Para assinar a licensa profissional e liberar todos os recursos, siga as etapas abaixo.
 
 * passo 1: conectado a internet, execute a janela de inscrição de assinatura na sua máquina local com o código a seguir.<br>
-<sup>Se você estiver usando os fontes diretamente da sua pasta de projetos sem o instalador execute primeiro o código para instalação de dependências, você pode encontrá-lo <a href="https://github.com/NeuralinePortuguese/Instalador/blob/main/instalacao_de_dependencias.py">aqui</a>. Como no Linux você não usa o instalador das etapas acima então a instalação prévia das dependências é obrigatória. Se a sua versão do Linux não vier com o Pip instalado você poderá instalá-lo executando <i>sudo add-apt-repository universe</i> e depois <i>sudo apt install python3-pip</i></sup></sup>
+<sup>Se você estiver usando os fontes diretamente da sua pasta de projetos sem o instalador execute primeiro o código para instalação de dependências, você pode encontrá-lo <a href="https://github.com/NeuralinePortuguese/Instalador/blob/main/instalacao_de_dependencias.py">aqui</a>. Como no Linux você não usa o instalador das etapas acima então a instalação prévia das dependências é obrigatória. No Linux te aconselhamos a instalar as dependências duas vezes, sem o “sudo” e com o “sudo” para evitar problemas durante o desenvolvimento. Se a sua versão do Linux não vier com o Pip instalado você poderá instalá-lo executando <i>sudo add-apt-repository universe</i> e depois <i>sudo apt install python3-pip</i></sup></sup>
 
 <pre>
   <code>
