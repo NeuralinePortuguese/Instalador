@@ -6,7 +6,7 @@
 ### Instalação do Neuraline
 <div align="justify">
 Primeiramente com o <a href="https://www.python.org">Python</a>3.10 ou superior instalado, se você for um usuário Windows baixe o arquivo instalador clicando <a href="https://github.com/aiquantumneuro/instalacao_do_neuraline/raw/main/neuraline_installer.pyc">aqui</a> ou se preferir baixe o código fonte e siga para o passo 1. Caso você seja um usuário Linux(deb) não será preciso instalador, basta baixar o código fonte clicando <a href="https://github.com/Neuraline/Neuraline_linux_distributions/archive/refs/heads/main.zip">aqui</a> e extrair para a sua pasta de projetos. Recomendamos a última versão do Ubuntu para usuários Linux. Se você for um usuário Windows siga as instruções a seguir para executar o instalador, para usuários Linux pule direto para o passo 1 logo abaixo.<br>
-Depois de baixar o arquivo instalador, acesse o diretório para onde o arquivo foi baixado através do terminal.
+Usuários Windows: Depois de baixar o arquivo instalador, acesse o diretório para onde o arquivo foi baixado através do terminal.
 Por exemplo, no caso do Windows pesquise por cmd na sua barra de pesquisas e abra o Prompt de Comando.
 Depois digite o comando "cd" seguido do caminho do diretório onde se encontra o arquivo baixado.
 Se você baixou o arquivo no diretório padrão de Downloads então terá que executar algo parecido com isso:
@@ -20,6 +20,7 @@ cd C:\Users\UserName\Downloads
 Você também poderá mover o arquivo para dentro de qualquer diretório de sua preferência antes de executá-lo, desde que acesse esse diretório posteriormente pelo terminal.
 
 Para executar o arquivo basta digitar a seguinte linha de comando e teclar "Enter" na sequência:<br>
+<sup>É necessário o módulo requests do Python para executar o instalador, se não o tiver instalado execute <i>pip install requests</i> antes de iniciar a instalação.</sup>
 <pre>
   <code>
 python neuraline_installer.pyc
@@ -44,8 +45,8 @@ downloading, please wait..............
 Ok! O Neuraline foi instalado com sucesso, mas você ainda não conseguirá utilizar os recursos profissionais de forma completa caso não valide a sua assinatura.
 Para assinar a licensa profissional e liberar todos os recursos, siga as etapas abaixo.
 
-* passo 1: conectado a internet, execute a janela de inscrição de assinatura na sua máquina local com o código a seguir.<br>
-<sup>Se você estiver usando os fontes diretamente da sua pasta de projetos sem o instalador execute primeiro o código para instalação de dependências, você pode encontrá-lo <a href="https://github.com/NeuralinePortuguese/Instalador/blob/main/instalacao_de_dependencias.py">aqui</a>. Como no Linux você não usa o instalador das etapas acima então a instalação prévia das dependências é obrigatória. No Linux te aconselhamos a instalar as dependências duas vezes, sem o “sudo” e com o “sudo” para evitar problemas durante o desenvolvimento. Se a sua versão do Linux não vier com o Pip instalado você poderá instalá-lo executando <i>sudo add-apt-repository universe</i> e depois <i>sudo apt install python3-pip</i></sup></sup>
+* passo 1 (para usuários Linux depois de baixar os fontes siga a partir daqui, para usuários Windows siga as etapas acima antes de continuar daqui para frente): conectado a internet, execute a janela de inscrição de assinatura na sua máquina local com o código a seguir.<br>
+<sup>Se você estiver usando os fontes diretamente da sua pasta de projetos sem o instalador execute primeiro o código para instalação de dependências, você pode encontrá-lo <a href="https://github.com/aiquantumneuro/instalacao_do_neuraline/blob/main/instalacao_de_dependencias.py">aqui</a>. Como no Linux você não usa o instalador das etapas acima então a instalação prévia das dependências é obrigatória. No Linux te aconselhamos a instalar as dependências duas vezes, sem o “sudo” e com o “sudo” para evitar problemas durante o desenvolvimento. Se a sua versão do Linux não vier com o Pip instalado você poderá instalá-lo executando <i>sudo add-apt-repository universe</i> e depois <i>sudo apt install python3-pip</i></sup>
 
 <pre>
   <code>
@@ -85,6 +86,7 @@ print(Subscribe().validateSignature(url_path=url_path))
 <sup>Observação: os códigos do Neuraline são códigos profissionais compilados e criptografados com engenharia fechada.
 Por esse motivo você não conseguirá executálos em ambientes virtuais como os de notebooks por exemplo.
 Também não recomendamos que você tente editá-los, pois neste caso os desenvolvedores responsáveis tem mecanismos para fazer o seu rastreamento e processá-lo judicialmente.</sup><br>
+<sup><i>* Você poderá mover e/ou copiar o Neuraline a vontade desde que seja na mesma máquina onde a inscrição foi feita, caso contrário a sua licença será bloqueada e a biblioteca deixará de funcionar.</i></sup><br>
 
 Com a instalação e validação concluídas você já poderá utilizar todos os recursos de Neurociência Computacional, Inteligência Artificial, Física Computacional e Computação Quântica da ferramenta.
 Como os algoritmos são códigos fechados nós não recomendamos a utilização de IDEs invasivas com recursos de autocomplete para módulos, 
