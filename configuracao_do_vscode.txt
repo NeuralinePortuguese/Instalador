@@ -1,0 +1,14 @@
+1 - Com o VS Code aberto tecle F1.
+2 - Na barra de consulta pesquise por settings.
+3 - Clique em Abrir Configurações do Workspace (JSON).
+4 - No arquivo settings.json que será aberto acrescente o seguinte código entre as chaves:
+    "python.analysis.diagnosticSeverityOverrides": {
+        "reportMissingImports": "none"
+    }
+O arquivo ficará parecido com isso:
+{
+    "python.analysis.diagnosticSeverityOverrides": {
+        "reportMissingImports": "none"
+    }
+}
+5 - Salve o arquivo.
