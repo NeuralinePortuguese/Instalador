@@ -1,0 +1,20 @@
+Se você estiver enfrentando algum tipo de dificuldade em executar os códigos do Neuraline pelo Jupyter Notebook do VSCode siga os passos a seguir:
+
+
+1 – Crie um arquivo de nome “settings.json” no seu diretório local de projetos, cole e salve o seguinte conteúdo dentro dele:
+
+{
+	"python.analysis.diagnosticSeverityOverrides": {
+		"reportMissingImports": "none"
+	}
+}
+
+Se estiver usando o Linux isso já deverá ser o suficiente, a partir de agora basta salvar os seus códigos do Neuraline no mesmo diretório do arquivo “settings.json” e executá-los a partir deste mesmo local. Você também poderá usar o Jupyter sem o VSCode desde que salve os seus notebooks nesse mesmo diretório. Caso isso não resolva ou caso seja um usuário Windows prossiga com os passos a seguir...
+
+2 - Se você for um usuário Linux simplesmente confira se a pasta do Neuraline está dentro do seu diretório de projetos, se não estiver você deverá copiá-la para lá e toda vez que for codificar os seus códigos usando o Neuraline salve-os e os execute dessa pasta. Se for um usuário Windows execute o seguinte código:
+
+import site
+print(site.getsitepackages())
+
+Esse código retornará uma lista de strings com caminhos de diretórios que são usados pelo Python, verifique cada um desses diretórios até encontrar a pasta do Neuraline. Quando encontrar a pasta de nome Neuraline você deverá copiá-la e colá-la dentro do seu diretório de projetos (o mesmo diretório do arquivo “settings.json”). Pronto agora toda vez que for executar algum código do Neuraline sempre os execute desse diretório onde você colocou a pasta Neuraline e o arquivo “setting.json”.
+Obs: se você tiver alguma mensagem de erro do tipo “bad magic number” isso quer dizer que você está usando uma versão do Python inferior a 3.10, neste caso atualize o seu Python para o 3.10 ou superior.
