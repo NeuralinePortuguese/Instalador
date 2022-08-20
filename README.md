@@ -74,7 +74,7 @@ Ao concluir o pagamento da assinatura, será baixado um arquivo de nome "subscri
 <sup>Observação: o arquivo subscription.key é particular, se alguém além de você utilizar a sua chave, você terá os seus recursos bloqueados, então guarde-o com segurança.</sup><br>
 
 * passo 4: (FINAL) - conectado a internet, execute o código de validação de assinatura informando o arquivo "subscription.key" que foi baixado no valor do parâmetro "url_path". 
-Se o retorno for True com a mensagem "Signature SUCCESSFULLY VALIDATED!", a sua assinatura terá sido validada com sucesso e todos os recursos profissionais da biblioteca de códigos serão liberados sem restrição.
+Se o retorno for <b>True</b> com a mensagem "<b>Signature SUCCESSFULLY VALIDATED!</b>", a sua assinatura terá sido validada com sucesso e todos os recursos profissionais da biblioteca de códigos serão liberados sem restrição.
 
 <pre>
   <code>
