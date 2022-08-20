@@ -62,7 +62,11 @@ Subscribe().subscribe()
 Você poderá criar um arquivo para cada código a ser executado e executá-los com o comando "python" seguido do nome do arquivo .py,
 ou simplesmente executar os códigos linha a linha através do IDLE.</sup><br><sup>A janela de inscrição usa o runtime do Chrome, então você precisará ter o <a href="https://www.google.com/intl/pt-BR/chrome/">Chrome</a> ou o <a href="https://www.chromium.org/getting-involved/download-chromium/">Chormium</a> instalado na sua máquina, caso contrário a janela de inscrição não abrirá. Se por algum motivo você não conseguir executar a janela de inscrição clique <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=3KU8UE3HVYPAS">aqui</a> e acesse o nosso link alternativo diretamente do PayPal, mas só faça isso se a janela de inscrição da biblioteca não abrir.</sup>
 
+<div align="center"><img src="https://github.com/NeuralinePortuguese/Instalador/blob/main/subscribe01.png"></div>
+
 * passo 2: preencha o primeiro campo do formulário com o seu nome verdadeiro completo e no segundo campo escolha o seu país de residência. Depois de preencher os dois campos clique no botão "Next >>".
+
+<div align="center"><img src="https://github.com/NeuralinePortuguese/Instalador/blob/main/subscribe02.png"></div>
 
 * passo 3: clique em um dos botões de assinatura do PayPal e na janela de autenticação do PayPal preencha as informações requisitadas com os seus dados de pagamento e confirme.
 Com exceção da China, o nome do usuário do PayPal que receberá o pagamento poderá variar de acordo com o país e a região na qual você se encontra, não se preocupe, pois todas as transações são certificadas pelo próprio PayPal e protegidas por criptografia.
