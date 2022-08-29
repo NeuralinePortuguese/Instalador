@@ -97,6 +97,8 @@ Como os algoritmos são códigos fechados nós não recomendamos a utilização 
 neste caso a nossa recomendação é de que você codifique com IDEs de código texto como o <a href="https://www.sublimetext.com/">Sublime Text</a> ou o <a href="https://atom.io/">Atom</a> por exemplo (não recomendamos o VS Code), 
 você também poderá codificar com o próprio IDLE sem problemas. No <a href="https://atom.io/">Atom</a> recomendamos a utilização do pacote <a href="https://atom.io/packages/search?q=platformio-ide-terminal">platformio-ide-terminal</a> para Windows por que o terminal padrão não costuma exibir alguns símbolos especiais da computação quântica.
 
+<div align="center"><img src="https://github.com/NeuralinePortuguese/Instalador/blob/main/logos.png"></div>
+
 <sub>Confira algumas das empresas, organizações ou instituições de ensino que utilizam o algoritmo completo ou módulos dele:
 SpaceX, Boston Dynamics, Blue Origin, Huawei, Xiaomi, ByteDance, University of Zurich, University of Vienna, Peking University...
 O nome Neuraline refere-se apenas aos módulos de distribuição pública e o direito autoral é de propriedade dos desenvolvedores.</sub>
